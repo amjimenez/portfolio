@@ -3,9 +3,9 @@ Advanced CSS Challenge: Professional Portfolio
 <p>This week's challenge focused on creating an online portfolio to showcase ourselves to potential employers. We applied our knowledge from the last two weeks of HTML, CSS, flexbox and media queries to complete this task.</p>
 
 <b>The user's story is as follows:</b>
-<p>AS AN employer
-<p>I WANT to view a potential employee's deployed portfolio of work samples
-<p>SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+<p>AS AN employer</p>
+<p>I WANT to view a potential employee's deployed portfolio of work samples</p>
+<p>SO THAT I can review samples of their work and assess whether they're a good candidate for an open position</p>
 
 <b>The acceptance criteria is as follows:</b>
 <p>GIVEN I need to sample a potential employee's previous work
