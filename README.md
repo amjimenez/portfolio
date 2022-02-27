@@ -1,6 +1,6 @@
 # portfolio
 Advanced CSS Challenge: Professional Portfolio
-This week's challenge focused on creating an online portfolio to showcase ourselves to potential employers. We applied our knowledge from the last two weeks of HTML, CSS, flexbox and media queries to complete this task.
+<p>This week's challenge focused on creating an online portfolio to showcase ourselves to potential employers. We applied our knowledge from the last two weeks of HTML, CSS, flexbox and media queries to complete this task.</p>
 
 <b>The user's story is as follows:</b>
 <p>AS AN employer
